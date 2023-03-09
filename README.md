@@ -1,7 +1,7 @@
 - 👋 Hi, my name's Iago Gomes, I'm 26 years old,
 - 🌱 I’m currently learning Flutter mobile/desktop/web, Node.js, Python and JavaScript,
 - 💞️ I’m looking to collaborate on scalable projects,
-- 📫 Contact: i.goomees96@gmail.com
+- 📫 Contact: gomes.iago@outlook.com.br
 
 <!---
 iagogomes96/iagogomes96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
