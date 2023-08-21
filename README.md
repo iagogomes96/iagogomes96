@@ -37,7 +37,7 @@
 ### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-1E4C68?&logo=Mysql&logoColor=FFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
