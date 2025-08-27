@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil+GitHub!+🐱;Aceita+um+cafézinho?+☕:%29)](https://git.io/typing-svg)
 
-✌🏾 Me chamo ***Iago Gomes***, tenho 27 anos e moro em São Paulo, SP. Adoro *Jogos Eletrônicos* 🎮 e recentemente estou num novo romance com a *academia* 🏋🏽.
+✌🏾 Me chamo ***Iago Gomes***, tenho 29 anos e moro em São Paulo, SP. Adoro *Jogos Eletrônicos* 🎮 e recentemente estou num novo romance com a *academia* 🏋🏽.
 
 👨🏽‍🎓 Sou formado em ***Mecatrônica*** a nível técnico e sou graduando em *Análise e Desenvolvimento de Sistemas*. Já cursei Engenharia de Controle e Automação, mas decidi não prosseguir pois não era exatamente o que eu queria. Foi então que decidi seguir o coração e me especializar em Desenvolvimento de Sistemas 👨🏽‍💻.
 
