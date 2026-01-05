@@ -2,7 +2,7 @@
 
 ✌🏾 Me chamo ***Iago Gomes***, tenho 29 anos e moro em São Paulo, SP. Adoro *Jogos Eletrônicos* 🎮 e recentemente estou num novo romance com a *academia* 🏋🏽.
 
-👨🏽‍🎓 Sou formado em ***Mecatrônica*** a nível técnico e sou graduando em *Análise e Desenvolvimento de Sistemas*. Já cursei Engenharia de Controle e Automação, mas decidi não prosseguir pois não era exatamente o que eu queria. Foi então que decidi seguir o coração e me especializar em Desenvolvimento de Sistemas 👨🏽‍💻.
+👨🏽‍🎓 Sou formado em ***Mecatrônica*** a nível técnico e superior em *Análise e Desenvolvimento de Sistemas*. Já cursei Engenharia de Controle e Automação, mas decidi não prosseguir pois não era exatamente o que eu queria. Foi então que decidi seguir o coração e me especializar em Desenvolvimento de Sistemas 👨🏽‍💻.
 
 👨🏽‍💼 Atualmente trabalho com manutenção de redes e computadores, além de desenvolver alguns sistemas na empresa em que trabalho. Também atuo como Freelancer desenvolvendo Apps Mobile e Sites.
 
